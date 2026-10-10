@@ -33,12 +33,28 @@ body {
     font-size: 20px;
 }
 
-.recipe-title {
+.beans-recipe-title {
     display: inline;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 40px;
     color: pink;
-    margin-left: 250px;
+    margin-left: 253px;
+}
+
+.fruit-bowl-recipe-title {
+    display: inline;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 40px;
+    color: pink;
+    margin-left: 282px;
+}
+
+.salad-recipe-title {
+    display: inline;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 40px;
+    color: pink;
+    margin-left: 262px;
 }
 
 .recipe-page-subheadings {
